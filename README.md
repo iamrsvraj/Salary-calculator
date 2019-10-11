@@ -30,4 +30,8 @@ Output: The applet displays: (1) the hours worked, (2) the hourly pay rate, (3) 
 regular pay for 40 hours, (4) the overtime pay, (5) the total of regular and overtime pay,
 and (6) the total itemized deductions. If the deductions exceed the gross pay, display an
 error message; otherwise, calculate and display (7) the net pay after all the deductions
-have been subtracted from the gross for all input employees.
+have been subtracted from the gross for all input employees. 
+My changes 1
+My changes 2
+My changes 3
+My changes 4
